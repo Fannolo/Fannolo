@@ -18,7 +18,7 @@
 
 ## 👻 A little about me
 
-- 🏗️ Currently building things @ [token.com](https://token.com)
+- 🏗️ Currently building things @ [iGaming] company in China, Hangzhou
 - 📊 Studying Data Science @ **University of Michigan**
 - 💡 Ask me about **JavaScript, React Native, Data Science**
 
@@ -26,7 +26,7 @@
 const Alessandro = {
   location: "🌍",
   languages: ["Italian 🇮🇹", "English 🇬🇧", "Chinese 🇨🇳"],
-  currentRole: "Software Engineer @ token.com",
+  currentRole: "Software Engineer @ iGaming China",
   studying: "Data Science @ University of Michigan",
   skills: {
     languages: ["Python", "JavaScript", "C", "C++", "C#"],
